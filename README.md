@@ -35,7 +35,6 @@ The cave is represented as a 5x5 grid. The player (`P`) starts at position (0, 0
 - Press `4` to move down.
 - Press `5` to quit the game.
 
-## Example Gameplay
 
 ## Files
 
@@ -43,6 +42,15 @@ The cave is represented as a 5x5 grid. The player (`P`) starts at position (0, 0
 - **`instructions.txt`**: Displays the instructions for the game.
 - **`highscore.txt`**: Stores the current high score.
 
+## Contributing
 
+Contributions are welcome! If you have any ideas for improvements, open an issue or create a pull request.
+
+
+## Author:
+Kanika Chauhan
+
+## Contacts:
+Email- kanika13c@gmail.com
 
 
