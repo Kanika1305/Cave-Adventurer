@@ -1,3 +1,4 @@
+![cave](https://github.com/Kanika1305/Wordfind/blob/main/wf.png)
 # Cave Adventure Game
 
 Welcome to the **Cave Adventure Game**! This is a simple command-line game where you explore a cave, gather treasures, avoid dangers, and try to get the highest score possible!
