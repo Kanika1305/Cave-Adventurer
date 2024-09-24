@@ -16,10 +16,10 @@ The cave is represented as a 5x5 grid. The player (`P`) starts at position (0, 0
 
 ## Items in the Cave
 
-- **Big Treasure (10 points)**: Adds 20 points to your score.
-- **Small Treasure (1 point)**: Adds 10 points to your score.
-- **Bear (2 points)**: Bear attack! Reduces your health by 15 points.
-- **Health Boost (3 points)**: Increases your health by 10 points.
+- **Big Treasure**: Adds 20 points to your score.
+- **Small Treasure**: Adds 10 points to your score.
+- **Bear**: Bear attack! Reduces your health by 15 points.
+- **Health Boost**: Increases your health by 10 points.
 
 ## Gameplay Instructions
 
