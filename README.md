@@ -67,12 +67,21 @@ Enter your choice:
 - **`instructions.txt`**: Displays the instructions for the game.
 - **`highscore.txt`**: Stores the current high score.
 
-## Installation Guide
-1. **Download**: [Get the Cave Adventure Setup](https://github.com/Kanika1305/Cave-Adventurer/releases/download/v1/adventurer.exe).
+# Installation Guide
+
+ ### TO DOWNLOAD THE WHOLE SETUP:
+ 
+1. **Download**: Get the Cave Adventure Setup provided in the same repository and download it.
 2. **Run**: Double-click `CaveAdventureSetup.exe` to start the installation. Click **Run** if prompted by security warnings.
 3. **Install**: Follow the on-screen instructions to install the game.
 4. **Launch**: Start the game from the Start Menu or the desktop shortcut.
-5. **Uninstall** (if needed): Go to **Control Panel > Programs > Uninstall a program**, and select **Cave Adventure Game**.
+
+
+### TO DOWNLOAD ONLY THE GAME FILE
+1. **Download**: [Click on the link to download cave adventurer file](https://github.com/Kanika1305/Cave-Adventurer/releases/download/v1/adventurer.exe).
+2. **Run**: The .exe file would be downloaded in your computer system. Click **Run** if prompted by security warnings.
+3. **Ready**: The game should  be opened in your terminal.
+
 
 
 ## Contributing
