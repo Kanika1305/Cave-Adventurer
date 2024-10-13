@@ -89,7 +89,9 @@ Enter your choice:
 Contributions are welcome! If you have any ideas for improvements, open an issue or create a pull request.
 
 ## Credits
-Created by:[![Kanika Chauhan](https://img.shields.io/badge/Kanika_Chauhan-GitHub-00F79?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kanika1305) 
+Created by:
+
+[![Kanika Chauhan](https://img.shields.io/badge/Kanika_Chauhan-GitHub-00F79?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Kanika1305) 
 
 Under the guidance of:
 
